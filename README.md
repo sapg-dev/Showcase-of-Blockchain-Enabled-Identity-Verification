@@ -1,4 +1,4 @@
-# Blockchain Identification Cards
+# Blockchain Identification Cards    [![Netlify Status](https://api.netlify.com/api/v1/badges/f24e0fe6-2f37-427c-8591-5ca5a2defb7e/deploy-status)](https://app.netlify.com/sites/tiny-gelato-688bba/deploys)
 
 ## Overview
 
